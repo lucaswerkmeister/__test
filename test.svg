@@ -1,7 +1,4 @@
 <svg width="300" height="350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="Triangle" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" orient="auto">
-      <polygon points="0,0 10,5 0,10"/>
-    </marker>
   </defs>
 </svg>
