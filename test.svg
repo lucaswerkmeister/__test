@@ -3,13 +3,4 @@
     <marker id="Triangle" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" orient="auto">
       <polygon points="0,0 10,5 0,10"/>
     </marker>
-    <g id="arrowClockwise">
-      <path d="M 15 -12 C 66 -50, 133 -50, 185 -12"/>
-      <text class="transition" x="100" y="-45">1,4,7</text>
-    </g>
-    <g id="arrowCounterclockwise">
-      <path d="M 180 6 C 133 20, 66 20, 20 5"/>
-      <text class="transition" x="100" y="30">2,5,8</text>
-    </g>
-  </defs>
 </svg>
